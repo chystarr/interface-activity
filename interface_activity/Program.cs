@@ -1,4 +1,3 @@
-﻿// Chynna Starr
 // Intro to APIs Activity 4
 
 using System;
